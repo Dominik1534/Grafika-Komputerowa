@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  13-kąt_Dominik_Kosatka.cpp
+c:\users\dk\desktop\grafika komputerowa\13-kąt_dominik_kosatka\13-kąt_dominik_kosatka\13-kąt_dominik_kosatka.cpp(37): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\dk\desktop\grafika komputerowa\13-kąt_dominik_kosatka\13-kąt_dominik_kosatka\13-kąt_dominik_kosatka.cpp(36): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\dk\desktop\grafika komputerowa\13-kąt_dominik_kosatka\13-kąt_dominik_kosatka\13-kąt_dominik_kosatka.cpp(117): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  13-kąt_Dominik_Kosatka.vcxproj -> C:\Users\DK\Desktop\Grafika Komputerowa\13-kąt_Dominik_Kosatka\Debug\13-kąt_Dominik_Kosatka.exe
